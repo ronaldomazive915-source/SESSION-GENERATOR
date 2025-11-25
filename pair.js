@@ -26,7 +26,7 @@ router.get('/', async (req, res) => {
             saveCreds
         } = await useMultiFileAuthState('./temp/'+id)
      try {
-            let Pair_Code_By_RONY_SKIES = RONY_SKIES({
+            let Pair_Code_By_Rony_Skies = RONY_SKIES({
                 auth: {
                     creds: state.creds,
                     keys: makeCacheableSignalKeyStore(state.keys, pino({level: "fatal"}).child({level: "fatal"})),
@@ -68,10 +68,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@ronaldomazive5306_
 ║❒ *Owner:* _https://wa.me/27696397895_
-║❒ *Repo:* _https://github.com/ronyskies0-svg
+║❒ *Repo:* _https://github.com/ronyskies0-svg_
 
-║❒ *WaGroup:* _https://chat.whatsapp.com/BL0erai5W6O1dKGMczM7vG?mode=hqrc
-║❒ *WaChannel:* _
+║❒ *WaGroup:* _https://chat.whatsapp.com/BL0erai5W6O1dKGMczM7vG?mode=hqrc_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbBnRol1XquTPCwUsk15_
 ║❒ *Plugins:* _https://github.com/ronaldomazive915-source_
 ╚════════════════════════╝
 _____________________________________
